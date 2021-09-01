@@ -1,0 +1,19 @@
+{
+  "name": "homehub-server",
+  "version": "0.0.1",
+  "description": "Server side of HomeHubApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jafesu/HomeHub-Server.git"
+  },
+  "author": "EzekielJ Development Studios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jafesu/HomeHub-Server/issues"
+  },
+  "homepage": "https://github.com/Jafesu/HomeHub-Server#readme"
+}
